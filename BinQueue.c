@@ -77,7 +77,6 @@ BinQueue Merge(BinQueue H1, BinQueue H2)
 	return H1;
 }
 
-
 ElementType DeleteMin(BinQueue H)
 {
 	int i, j;
